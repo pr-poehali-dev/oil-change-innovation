@@ -62,11 +62,11 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'gdrive-orange': '#FF6B35',
-				'gdrive-blue': '#2E86AB',
-				'gdrive-red': '#F18F01',
-				'gdrive-gray': '#F5F5F5',
-				'gdrive-dark': '#1F2937'
+				'gdrive-red': '#DC143C',
+				'gdrive-dark': '#1A1A1A',
+				'gdrive-black': '#000000',
+				'gdrive-silver': '#C0C0C0',
+				'gdrive-gray': '#F5F5F5'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
