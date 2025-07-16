@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'gdrive-orange': '#FF6B35',
+				'gdrive-blue': '#2E86AB',
+				'gdrive-red': '#F18F01',
+				'gdrive-gray': '#F5F5F5',
+				'gdrive-dark': '#1F2937'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
